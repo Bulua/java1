@@ -1,1 +1,0 @@
-Hello Git, my name is jack!
